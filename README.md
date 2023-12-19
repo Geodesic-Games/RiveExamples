@@ -1,3 +1,5 @@
+
+Clone the project.
 ```
 git clone git@github.com:Geodesic-Games/RiveExamples.git
 cd RiveExamples
